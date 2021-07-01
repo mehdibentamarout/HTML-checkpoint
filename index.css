@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  color: aliceblue;
+}
+.name {
+  font-style: italic;
+}
+.best {
+  font-style: unset;
+}
+.text {
+  text-decoration: underline;
+}
+.title {
+  border: solid;
+}
+.titles {
+  border: solid;
+  border-radius: 10px 10px;
+  box-shadow: 6px 6px 6px white;
+}
+.titlle {
+  border: 3px white dotted;
+  text-shadow: 6px 6px 6px white;
+}
+a:hover {
+  color: cyan;
+}
+p:hover {
+  border-left: 3px solid white;
+}
